@@ -1,5 +1,6 @@
 ## Javier Fernandez 
 
+
 ## cursos 
 
 # educacion secundaria obligatoria
@@ -13,12 +14,13 @@ realizado el curso de adiestramiento basico canino, conocimientos basicos de pel
 
 ## experiencia laboral
 
-# mozo de almacen 
+# **Negrita**: `mozo de almacen`
 - almacenaje en empresa de alimentacion
 - carga y descarga de camiones de alimentos
 - limpieza y desinfeccion de la zona de trabajo
 
-# adiestrador canino en residencia canina
+# **Negrita**: `adiestrador canino en residencia canina`
+- Enlace a [Residencia](https://alanosdetoletum.com/)
 - recepcion de perros en la residencia
 - limpieza y desinfeccion de chelines
 - sacar perros al pipican
@@ -26,12 +28,13 @@ realizado el curso de adiestramiento basico canino, conocimientos basicos de pel
 - atencion al cliente
 - dar de comer a los perros 
 
-## acompañante de transporte escolar 
+## **Negrita**: `**acompañante de transporte escolar**`
+![alt text](image.png)
 - acompañar a chico con movilidad reducida al instituto
 - manejo de la silla de ruedas del autobus al instituto
 - dejar al chico en la parada final del autobus
 
-## youtuber
+## _Cursiva_: `*youtuber*`
 - guionizar videos para la exposicion
 - grabar los videos
 - editar los videos
